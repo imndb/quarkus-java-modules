@@ -1,0 +1,1 @@
+java --module-path target/modules -m ch.imndb.quarkus.client/ch.imndb.quarkus.client.BaseServiceClient iman
